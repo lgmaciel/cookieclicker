@@ -1,0 +1,39 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+picture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#div-construcoes {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    padding: 0.5rem;
+}
+
+#img-cookie {    
+    width: 10rem
+}
+
+#img-cursor {
+    width: 3rem;
+    margin: 1rem;
+    background-color: antiquewhite;
+    padding: 5px;
+    border-style: solid;    
+}
+
+#img-vovo {    
+    width: 3rem;
+    margin: 1rem;
+    background-color: antiquewhite;
+    padding: 5px;
+    border-style: solid;
+}
+
